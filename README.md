@@ -1,7 +1,7 @@
 # vanillaJs
 
-<span>ReactJS를 학습하기 전에 JS의 실력을 향상시키기위해 진행한 프로젝트</span>
-<span>localstorage에 값을 저장해서 새로고침해도 내용이 없어지지 않는다.</span>
+ReactJS를 학습하기 전에 JS의 실력을 향상시키기위해 진행한 프로젝트  
+localstorage에 값을 저장해서 새로고침해도 내용이 없어지지 않는다.
 
 Screenshot
 -----------
